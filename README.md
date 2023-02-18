@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Farheen Khan</h1>
 
 
-## <h3>👨🏻‍💻 &nbsp;About Me: </h3>
+<h3>👨🏻‍💻 &nbsp;About Me: </h3>
 
 
 - 🌱 I’m currently learning Front-End Technologies; 
