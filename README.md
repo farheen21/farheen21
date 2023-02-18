@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me: </h3>
 
 
-- 🌱 I’m currently learning Front-End Technologies; 
+- 🌱 I’m currently as FrontEnd Engineer but having keen interest in backend engineering as well; 
 - 💬 Ask me about anything, I am happy to help;
 - ✍️ &nbsp; Solving complex and challenging problems.
 - 📫 How to reach me **farheenkhancc@gmail.com**
@@ -15,11 +15,13 @@
 ## Connect with me:
 <p align="left">
 
- <a href="https://twitter.com/FarheenFirdous5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Farheen Khan" height="40" width="60" /></a>
+
 <a href="https://www.linkedin.com/in/farheen-khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Farheen Khan" height="40" width="60" /></a>
+
 <a href="https://www.instagram.com/hobosoul__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Farheen Khan" height="50" width="60" /></a>
-<a href="https://codepen.io/Farheen21" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" alt="Farheen" height="50" width="60" /></a>
-<a href="https://leetcode.com/Farheen_khan/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="Farheen" height="50" width="50" /></a>
+
+ <a href="https://medium.com/@farheen-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Farheen Khan" height="50" width="60" /></a>
+ 
 
 
 ## 🚀 Languages and Tools:
