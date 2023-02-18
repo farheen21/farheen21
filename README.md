@@ -15,13 +15,8 @@
 ## Connect with me:
 <p align="left">
 
+<a href="https://www.linkedin.com/in/farheen-khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Farheen Khan" height="40" width="60" /></a><a href="https://www.instagram.com/hobosoul__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Farheen Khan" height="50" width="60" /></a><a href="https://medium.com/@farheen-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Farheen Khan" height="50" width="60" /></a>
 
-<a href="https://www.linkedin.com/in/farheen-khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Farheen Khan" height="40" width="60" /></a>
-
-<a href="https://www.instagram.com/hobosoul__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Farheen Khan" height="50" width="60" /></a>
-
- <a href="https://medium.com/@farheen-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Farheen Khan" height="50" width="60" /></a>
- 
  </p>
  
 
@@ -47,7 +42,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/farheen21/github-readme-activity-graph"><img alt="Farheen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=farheen21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen21" alt="profile vist counter" /> </p>  
 <a href="https://github.com/farheen21">
