@@ -1,14 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Farheen Khan</h1>
-<h3 align="center">Selenophile , UX Designer and Engineer!!</h3>
+
 
 ## <h3>👨🏻‍💻 &nbsp;About Me: </h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif">
-
-
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a UX Designer and Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
 - 🌱 I’m currently learning Front-End Technologies; 
 - 💬 Ask me about anything, I am happy to help;
