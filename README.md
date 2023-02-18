@@ -29,7 +29,7 @@
 ## 🚀 Languages and Tools:
 
 
- [![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,sass,aws,cpp,github,git,java,mongodb,postman,mysql&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,sass,aws,cpp,github,git,java,mongodb,postman,mysql&perline=8)](https://skillicons.dev)
 
 <br/>
 
