@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me: </h3>
 
 
-- 🌱 I’m currently as FrontEnd Engineer but having keen interest in backend engineering as well; 
+- 🌱 I’m currently as Fullstack Engineer having keen interest in problem solving; 
 - 💬 Ask me about anything, I am happy to help;
 - ✍️ &nbsp; Solving complex and challenging problems.
 - 📫 How to reach me **farheenkhancc@gmail.com**
