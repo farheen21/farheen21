@@ -15,7 +15,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/farheen-khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Farheen Khan" height="40" width="60" /></a><a href="https://www.instagram.com/hobosoul__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Farheen Khan" height="50" width="60" /></a><a href="https://medium.com/@farheen-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Farheen Khan" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/farheen-khan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Farheen Khan" height="40" width="60" /></a><a href="https://medium.com/@farheen-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Farheen Khan" height="50" width="60" /></a>
 
  </p>
  
@@ -24,7 +24,7 @@
 ## 🚀 Languages and Tools:
 
 
- [![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,sass,aws,cpp,github,git,java,mongodb,postman,mysql&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,sass,aws,docker,github,git,java,mongodb,postman,mysql&perline=8)](https://skillicons.dev)
 
 <br/>
 
